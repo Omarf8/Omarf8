@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Omar!
 
 <!--
 **Omarf8/Omarf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🛠️ I’m currently working on ...
+* **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
+* [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple project using JavaScript to get familiar with DOM manipulation and API fetching.
+
+---
+<a href="https://www.linkedin.com/in/omar-figueroa-978272292/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<!-- &nbsp; -->
+<!-- <a href="YOUR_TWITTER_URL" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+&nbsp; -->
