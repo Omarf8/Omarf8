@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm always eager to learn new strategies, tools, and best practices. Lately, I've started working on visual, interactive projects using modern Frontend frameworks instead of just terminal-based tools.**
+**I'm always keen to learn new strategies, tools, and best practices. Lately, I've started working on visual, interactive projects using modern Frontend frameworks instead of just terminal-based tools.**
 
 ## About Me
 Hello! I'm Omar Figueroa, a full-time undergraduate student at the University of Illinois Chicago (UIC). My immersion in Computer Science opened with a fascination for how logic can build tangible tools, programs, and systems we use daily. I love learning about Computer Science and seeing the many ways it can be applied.
@@ -29,6 +29,18 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 ## Currently Working On
 * **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
 * [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple project using JavaScript to get familiar with DOM manipulation and API fetching.
+
+## Featured Projects
+### 3-Card Poker [ [Server](https://github.com/Omarf8/poker-3card-server) | [Client](https://github.com/Omarf8/poker-3card-client) ] | Java, JavaFX, Maven
+* Designed an outline to map client-server relationships.
+* Implemented a server dashboard to track player status across the game cycle.
+* Engineered a multithreaded TCP server to handle concurrent client connections and structured message-passing.
+* Validated gameplay logic through a comprehensive test suite.
+
+### [Keno Game](https://github.com/Omarf8/keno) | Java, JavaFX, Maven
+* Designed wireframes to plan player navigation flow and interactions.
+* Performed dynamic gameplay and responsive event handling for consistent game updates.
+* Executed test suites to confirm game logic and extensively evaluated UI changes.
 
 ## ⚡️ Skills
 * **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SwiftUI
