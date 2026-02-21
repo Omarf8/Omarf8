@@ -26,10 +26,6 @@ Given my current interest in learning algorithm efficiency and data structures i
 
 My goal is to become a Software Engineer, so I'm focusing on project-based learning to build my skills. Right now, I'm learning more about HTML, CSS, and JavaScript to create Frontend applications and showcase my work. I also plan to be more active on GitHub and share my progress at each step.
 
-## Currently Working On
-* **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
-* [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple project using JavaScript to get familiar with DOM manipulation and API fetching.
-
 ## Featured Projects
 ### 3-Card Poker [ [Server](https://github.com/Omarf8/poker-3card-server) | [Client](https://github.com/Omarf8/poker-3card-client) ] | Java, JavaFX, Maven
 * Designed an outline to map client-server relationships.
@@ -41,6 +37,10 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 * Designed wireframes to plan player navigation flow and interactions.
 * Performed dynamic gameplay and responsive event handling for consistent game updates.
 * Executed test suites to confirm game logic and extensively evaluated UI changes.
+
+## Currently Working On
+* **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
+* [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple project using JavaScript to get familiar with DOM manipulation and API fetching.
 
 ## ⚡️ Skills
 * **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SwiftUI
