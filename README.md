@@ -40,7 +40,7 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 
 ## Currently Working On
 * **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
-* [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple project using JavaScript to get familiar with DOM manipulation and API fetching.
+* [Trivia Quiz App](https://github.com/Omarf8/trivia-quiz-app) - A simple trivia game project using JavaScript to get familiar with DOM manipulation and API fetching.
 
 ## ⚡️ Skills
 * **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SwiftUI
