@@ -41,7 +41,6 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 ## Currently Working On
 * **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
 * **Personalized Portfolio** - Private
-* [Password Generator App](https://github.com/Omarf8/password-generator) - Generate a custom password using a lightweight React tool and test the strength of the password.
 * [Syllabus Parser](https://github.com/Omarf8/syllabus-parser) - Upload a school syllabus to extract and automatically update your Calendar on important dates for exams, quizzes, and homework.
 
 ## ⚡️ Skills
