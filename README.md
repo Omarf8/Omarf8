@@ -44,9 +44,10 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 * [Syllabus Parser](https://github.com/Omarf8/syllabus-parser) - Upload a school syllabus to extract and automatically update your Calendar on important dates for exams, quizzes, and homework.
 
 ## ⚡️ Skills
-* **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SwiftUI
-* **Testing & Memory:** GoogleTest, AddressSanitizer (ASan)
-* **Tools & Build Systems:** JavaFX, Git, Maven
+* **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SQL
+* **Testing & Memory:** GoogleTest, AddressSanitizer (ASan), GDB
+* **Developer Tools:** Git, Maven, SQLite
+* **Frameworks & Libraries:** React, JavaFX, SwiftUI
 
 ---
 <a href="https://www.linkedin.com/in/omar-figueroa-978272292/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
