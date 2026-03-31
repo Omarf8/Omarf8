@@ -24,7 +24,7 @@ Previously, I interned at UIC on a project to introduce AI into Computer Science
 
 Given my current interest in learning algorithm efficiency and data structures in depth, I decided to pursue a Teaching Assistant role as a Data Structures TA. I find teaching fulfilling, and it continually helps me learn the concepts more thoroughly and strengthen my own understanding. Apart from the technical aspect, this role has been fundamental in developing my soft skills. I've learned to adapt my communication method to support a varied cohort of over 250 students per semester, turning challenging and surprising questions into learning moments.
 
-My goal is to become a Software Engineer, so I'm focusing on project-based learning to build my skills. Right now, I'm learning more about HTML, CSS, and JavaScript to create Frontend applications and showcase my work. I also plan to be more active on GitHub and share my progress at each step.
+My goal is to become a Software Engineer, so I'm focusing on project-based learning to build my skills. Right now, I'm learning more about HTML, CSS, JavaScript, and React to create Frontend applications and showcase my work. I plan to be more active on GitHub and share my progress at each step. To get closer to my goals, I'll try to set aside at least an hour or two each day for coding.
 
 ## Featured Projects
 ### 3-Card Poker [ [Server](https://github.com/Omarf8/poker-3card-server) | [Client](https://github.com/Omarf8/poker-3card-client) ] | Java, JavaFX, Maven
