@@ -24,24 +24,25 @@ Previously, I interned at UIC on a project to introduce AI into Computer Science
 
 Given my current interest in learning algorithm efficiency and data structures in depth, I decided to pursue a Teaching Assistant role as a Data Structures TA. I find teaching fulfilling, and it continually helps me learn the concepts more thoroughly and strengthen my own understanding. Apart from the technical aspect, this role has been fundamental in developing my soft skills. I've learned to adapt my communication method to support a varied cohort of over 250 students per semester, turning challenging and surprising questions into learning moments.
 
-My goal is to become a Software Engineer, so I'm focusing on project-based learning to build my skills. Right now, I'm learning more about HTML, CSS, JavaScript, and React to create Frontend applications and showcase my work. I plan to be more active on GitHub and share my progress at each step. To get closer to my goals, I'll try to set aside at least an hour or two each day for coding.
+My goal is to become a Software Engineer, so I'm focusing on project-based learning to build my skills. Right now, I'm learning HTML, CSS, JavaScript, and React to build Frontend applications and showcase my work. I plan to be more active on GitHub and share my progress at each step. To get closer to my goals, I'll try to set aside at least an hour or two each day for coding; otherwise, I'll hone and learn more about important CS fundamentals.
 
 ## Featured Projects
-### 3-Card Poker [ [Server](https://github.com/Omarf8/poker-3card-server) | [Client](https://github.com/Omarf8/poker-3card-client) ] | Java, JavaFX, Maven
+### 3-Card Poker [ [Server](https://github.com/Omarf8/poker-3card-server) | [Client](https://github.com/Omarf8/poker-3card-client) ] | Java, JavaFX, Maven, JUnit
 * Designed an outline to map client-server relationships.
 * Implemented a server dashboard to track player status across the game cycle.
 * Engineered a multithreaded TCP server to handle concurrent client connections and structured message-passing.
 * Validated gameplay logic through a comprehensive test suite.
 
-### [Keno Game](https://github.com/Omarf8/keno) | Java, JavaFX, Maven
+### [Keno Game](https://github.com/Omarf8/keno) | Java, JavaFX, Maven, JUnit
 * Designed wireframes to plan player navigation flow and interactions.
 * Performed dynamic gameplay and responsive event handling for consistent game updates.
 * Executed test suites to confirm game logic and extensively evaluated UI changes.
 
 ## Currently Working On
+* 📚 **Currently Reading:** *Designing Data-Intensive Applications* by Martin Kleppmann
 * **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
 * **Personalized Portfolio** - Private
-* [Syllabus Parser](https://github.com/Omarf8/syllabus-parser) - Upload a school syllabus to extract and automatically update your Calendar on important dates for exams, quizzes, and homework.
+* [CourseMap](https://github.com/Omarf8/coursemap) - Upload a school syllabus to extract and automatically update your Calendar on important dates for exams, quizzes, and homework.
 
 ## ⚡️ Skills
 * **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SQL
@@ -50,7 +51,7 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 * **Frameworks & Libraries:** React, JavaFX, SwiftUI
 
 ---
-<a href="https://www.linkedin.com/in/omar-figueroa-978272292/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="https://www.linkedin.com/in/omarfigueroa223/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
 <!-- &nbsp; -->
 <!-- <a href="https://x.com/omarf8cs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
 &nbsp; -->
