@@ -41,8 +41,7 @@ My goal is to become a Software Engineer, so I'm focusing on project-based learn
 ## Currently Working On
 * 📚 **Currently Reading:** *Designing Data-Intensive Applications* by Martin Kleppmann
 * **Improving my Frontend Stack**: HTML, CSS, JavaScript, and React.
-* **Personalized Portfolio** - Private
-* [CourseMap](https://github.com/Omarf8/coursemap) - Upload a school syllabus to extract and automatically update your Calendar on important dates for exams, quizzes, and homework.
+* **Personalized Cloud-themed Portfolio** - Private
 
 ## ⚡️ Skills
 * **Languages:** C/C++, Python, Java, HTML/CSS, JavaScript, SQL
